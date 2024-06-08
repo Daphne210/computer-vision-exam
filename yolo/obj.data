@@ -1,0 +1,4 @@
+train: D:/Users HP/Downloads/yolo/obj_train_data/train.txt
+val: D:/Users HP/Downloads/yolo/obj_train_data/val.txt
+nc: 2
+names: ['Car', 'Motorcycle']
